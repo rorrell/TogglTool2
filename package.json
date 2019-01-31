@@ -1,0 +1,20 @@
+{
+  "name": "toggltool2",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "config": "^3.0.1",
+    "express": "^4.16.4",
+    "express-basic-auth": "^1.1.6",
+    "nodemon": "^1.18.9",
+    "request": "^2.88.0",
+    "vue": "^2.5.22",
+    "vue-server-renderer": "^2.5.22"
+  },
+  "scripts": {
+    "dev": "nodemon server.js",
+    "prod": "node server.js"
+  }
+}
