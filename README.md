@@ -1,3 +1,3 @@
 # TogglTool2
 
-Shows today's entries from Toggl using Node.js with Vue and Express.  Also incorporates a refactored approach and build commands!
+Shows any day's entries from Toggl and any entry's details using Node.js with Vue and Express.  Also incorporates a refactored approach and build commands!
